@@ -1,0 +1,19 @@
+SVG
+ipfs://bafybeietfmqw5rncslgh66aidqxl4kpuyplbxob7ms4u5ucacbyyyyki4u
+
+https://bafybeietfmqw5rncslgh66aidqxl4kpuyplbxob7ms4u5ucacbyyyyki4u.ipfs.nftstorage.link/
+
+PNG
+ipfs://bafkreihss4f6vhueoz2ueq44nunpidsgygi77fuf5xm54kpoybleugjthm
+
+https://bafkreihss4f6vhueoz2ueq44nunpidsgygi77fuf5xm54kpoybleugjthm.ipfs.nftstorage.link/
+
+
+Png 100x100 
+ipfs://bafkreieobw6zfi4jsbilphhuuwbywcqc4fwf3ihol52gkqe3va64znpfgq
+
+https://bafkreieobw6zfi4jsbilphhuuwbywcqc4fwf3ihol52gkqe3va64znpfgq.ipfs.nftstorage.link/
+
+
+
+https://github.com/bitmos-io/astroport-token-lists/blob/main/img/bitmos.png
